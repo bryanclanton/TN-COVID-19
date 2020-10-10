@@ -7,7 +7,7 @@ The goal of this project is to take the datasets provided by the Tennessee Depar
 
 * **Tableau** for data visualization
 
-[Click Here](https://public.tableau.com/shared/2NZYHPMK5?:display_count=y&:origin=viz_share_link) to view my Tableau dashboard
+[Click Here](https://public.tableau.com/views/TN-COVID-19V2/Dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) to view my Tableau dashboard
 
 ## Project Screenshots
 
